@@ -6,7 +6,7 @@ Python Script that will send messages from a specified channel to a GroupMe grou
 
 ```
 cd requirements.txt
-pip install equirements.txt
+pip install requirements.txt
 ```
 
 ## Discord Bot
