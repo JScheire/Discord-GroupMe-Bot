@@ -27,8 +27,5 @@ async def on_message(message):
 async def on_ready():
     print('Bot is ready')
 
-<<<<<<< HEAD
 client.run(DISCORD_TOKEN)
-=======
-client.run(DISCORD_TOKEN)
->>>>>>> 58f68b68308d3e12711655ecf393cf885d41845e
+
