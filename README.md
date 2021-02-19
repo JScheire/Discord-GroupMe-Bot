@@ -11,7 +11,7 @@ pip install -r requirements.txt
 
 ## Discord Bot
 
-First, create a Discord bot and invite it to you server in accordance with the Discord Developer portal.
+First, create a [Discord bot](https://discord.com/developers/applications) and invite it to your server, making sure that you make sure it can view channels and messages when generating the URL.
 
 ## GroupMe Bot
 
